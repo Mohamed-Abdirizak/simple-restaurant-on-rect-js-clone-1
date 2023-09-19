@@ -1,0 +1,84 @@
+.text-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .left-text .topic{
+    font-size: 80px;
+  }
+  .left-text
+  {
+    width:55%;
+  }
+  .right-text {
+    font-weight: bold;
+    width: 40%;
+    /* border: 1px solid black; */
+  }
+  
+  .paddings{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.bluebg{
+    background-color: blue;
+    padding-right: 10px;
+    color: white;
+    font-size: 50px;
+    display: inline-block;
+    padding: 20px;
+    font-style: italic;
+}
+.left-text p{
+  font-size: 20px;
+  color:grey;
+}
+
+.btnand{
+  display: flex;
+  
+}
+.test{
+  margin-left: 20px;
+}
+.playClassDiv img{
+  margin-left: 20px;
+  height: 50px;
+  margin-top: 10px;
+
+}
+
+/* .left-text .playButton{
+  height: 50px;
+  width: 150px;
+} */
+
+/* .orderNowBtn{
+  color: orange;
+} */
+
+/* right side.................................... */
+.food1Img{
+    height: 500px;
+    width: 800px;
+  
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+   
+}
+
+/* 
+@media screen and (max-width: 1040px)
+{
+  .text-container{
+    flex-direction: column;
+    text-align: center;
+  }
+  .left-text .topic{
+    font-size: 40px;
+    text-align: center;
+  }
+
+} */

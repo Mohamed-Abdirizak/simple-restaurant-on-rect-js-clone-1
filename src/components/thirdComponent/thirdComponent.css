@@ -1,0 +1,57 @@
+.text-containerth {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+  }
+  .right-textth .topicth{
+    font-size: 80px;
+  }
+  .right-textth
+  {
+    width:55%;
+    /* border: 1px solid rgb(29, 252, 0); */
+  }
+  .left-textth {
+    font-weight: bold;
+    width: 40%;
+    /* border: 1px solid black; */
+  }
+  
+  .paddings{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.topicTh
+{
+    color: rgb(79, 79, 216);
+    font-weight: bold;
+}
+.servingFor{
+    font-size: 50px;
+}
+.over{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+  color:grey;
+}
+
+/* .blue{
+    color: orange;
+    background-color: blue;
+    display: inline-block;
+    
+} */
+
+
+.food1Imgth{
+    height: 500px;
+    width: 800px;
+  
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+   
+}
